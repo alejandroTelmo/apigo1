@@ -1,0 +1,17 @@
+[
+{
+"Name" :"auricular comun", 
+"Price":120,   
+"Published":true
+},
+{
+"Name" :"auricular bluetooth", 
+"Price":500,   
+"Published":true
+},
+{
+"Name" :"auricular vincha", 
+"Price":200,   
+"Published":true
+}
+]
